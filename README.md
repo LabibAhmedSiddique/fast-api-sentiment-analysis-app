@@ -18,7 +18,7 @@ pip install fastapi uvicorn transformers
 
     
    ```
-   git clone https://github.com/your-username/fastapi-sentiment-analysis-app.git
+   https://github.com/LabibAhmedSiddique/fast-api-sentiment-analysis-app
    ``` 
     
 2.  **Navigate to the project directory:**
